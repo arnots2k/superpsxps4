@@ -3,8 +3,35 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA18986",
+      "title": "The Legend of Heroes Trails through Daybreak Ultimate Edition PS5 [PPSA18986 - USA]",
+      "category": "game",
+      "version": "v01.002",
+      "sizeBytes": 37580963840,
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Ys_IX_Monstrum_Nox_DE.avif",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/KXsaGkexpy"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "https://akirabox.com/APVma1bOjmXo/file"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/p52xnt4vwdjb/PPSA18986-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [natanodes]",
+          "url": "https://datanodes.to/ujuwpo02u4fc/PPSA18986-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA07528",
-      "title": "METAL SLUG ATTACK RELOADED PS5 [PPSA07528 - EUR]",
+      "title": "Ys IX Monstrum Nox Deluxe Edition PS5 [PPSA07528 - EUR]",
       "category": "game",
       "version": "v01.001",
       "sizeBytes": 7516192768,
