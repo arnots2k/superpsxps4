@@ -3,6 +3,65 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA12047",
+      "title": "Sekiro Shadows Die Twice PS4 [CUSA12047 – USA]",
+      "category": "game",
+      "version": "v1.05",
+      "sizeBytes": 12884901888,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Sekiro__-Shadows-Die-Twice-Game-of-the-Year-Edition-PS4-PKG.webp",
+      "description": "<p>Sekiro: Shadows Die Twice is an action-adventure game developed by FromSoftware and published by Activision. Released on March 22, 2019, Sekiro won the Game of the Year award at The Game Awards 2019, along with the Best Action-Adventure Game title. </p>",
+      "downloadLinks": [
+	{
+          "name": "mocha - GAME DOWNLOAD.pkg [mocha]",
+          "url": "https://mocha.my/share/pODg5WfR8GACQTJ0Zu-ZEmW6FJM3bnXp"
+        },
+	{
+          "name": "mocha - GAME Update 1.05.pkg [mocha]",
+          "url": "https://mocha.my/share/MAFir8NtsKKxVg0ZZ1fEmOeYpC4OcMUV"
+        },
+	{
+          "name": "mocha - Update 1.05.pkg [NonPRO 60 FPS] [mocha]",
+          "url": "https://mocha.my/share/vm5_1YG_hmXsXXKLU48BMg93IdTFP9oi"
+        },
+	{
+          "name": "mocha - Update 1.05.pkg [PRO 60 FPS] [mocha]",
+          "url": "https://mocha.my/share/vm5_1YG_hmXsXXKLU48BMg93IdTFP9oi"
+        },
+	{
+          "name": "vikingfile - GAME DOWNLOAD.pkg [viki]",
+          "url": "https://vikingfile.com/f/fFnLZJTZZB"
+        },
+	{
+          "name": "vikingfile - GAME Update 1.05.pkg [viki]",
+          "url": "https://vikingfile.com/f/fFnLZJTZZB"
+        },
+	{
+          "name": "vikingfile - Update 1.05.pkg [NonPRO 60 FPS] [viki]",
+          "url": "https://vikingfile.com/f/fFnLZJTZZB"
+        },
+	{
+          "name": "vikingfile - Update 1.05.pkg [PRO 60 FPS] [viki]",
+          "url": "https://vikingfile.com/f/fFnLZJTZZB"
+        },
+		{
+          "name": "filekeeper - GAME DOWNLOAD.pkg [filek]",
+          "url": "https://filekeeper.net/woka7gn3dz0g/%5BSuperPSX%5D-Sekiro.Shadows_.Die.Twice-CUSA12047-USA-Game-PS4.pkg"
+        },
+	{
+          "name": "filekeeper - GAME Update 1.05.pkg [filek]",
+          "url": "https://filekeeper.net/bccthlp4mvtq/%5BSuperPSX%5D-Sekiro.Shadows_.Die.Twice-CUSA12047-USA-Update_1.05_(5.50+))-PS4.pkg"
+        },
+	{
+          "name": "filekeeper - Update 1.05.pkg [NonPRO 60 FPS] [filek]",
+          "url": "https://filekeeper.net/fdkdtv4h4dlt/%5BSuperPSX%5D-Sekiro.Shadows_.Die.Twice-CUSA12047-USA-Update_1.05_(Fix_5.05)_(NonPRO_60_FPS)-PS4.pkg"
+        },
+	{
+          "name": "filekeeper - Update 1.05.pkg [PRO 60 FPS] [filek]",
+          "url": "https://filekeeper.net/htobujnzupav/%5BSuperPSX%5D-Sekiro.Shadows_.Die.Twice-CUSA12047-USA-Update_1.05_(Fix_5.05)_(PRO_60_FPS)-PS4.pkg"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA18879",
       "title": "Kingdom Hearts Melody of Memory PS4 [CUSA18879 – EUR]",
       "category": "game",
