@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA18879",
+      "title": "Kingdom Hearts Melody of Memory PS4 [CUSA18879 – EUR]",
+      "category": "game",
+      "version": "v1.04",
+      "sizeBytes": 322122547,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/KINGDOM-HEARTS-Melody-of-Memory-PS4-PKG.webp",
+      "description": "<p>Kingdom Hearts III is an action role-playing game and a major installment in the Kingdom Hearts series, developed and published by Square Enix for the PlayStation 4. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/U4kESaTBtLilG4Wtn1kaY2meseLzSu17"
+        },
+	{
+          "name": "Update v1.04 .pkg [mocha]",
+          "url": "https://mocha.my/share/_4qteJmKrS7vPUS9CNRU4RKjzHeOJOcx"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [filek]",
+          "url": "https://filekeeper.net/3phq71qzyr3j/%5BSuperPSX%5D-Kingdom.Hearts.Melody.of.Memory-CUSA18879-EUR-Game-(7.50+)-PS4.pkg"
+        },
+	{
+          "name": "Update v1.04 .pkg [filek]",
+          "url": "https://filekeeper.net/if9l2ojik3th/%5BSuperPSX%5D-Kingdom.Hearts.Melody.of.Memory-CUSA18879-EUR-Update-v1.04-(7.50+)-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [viki]",
+          "url": "https://vikingfile.com/f/vDeL3A9fG3"
+        },
+	{
+          "name": "Update v1.04 .pkg [viki]",
+          "url": "https://vikingfile.com/f/8VwxAapDi6"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA12031",
       "title": "Kingdom Hearts 3 PS4 [CUSA12031 – USA]",
       "category": "game",
