@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA05787",
+      "title": "Kingdom Hearts HD 2.8 Final Chapter Prologue PS4 [CUSA05787 – EUR]",
+      "category": "game",
+      "version": "v1.05",
+      "sizeBytes": 28991029248,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/KINGDOM-HEARTS-HD-2_8-FINAL-CHAPTER-PROLOGUE-PS4-PKG.webp",
+      "description": "<p>Kingdom Hearts HD 2.8 Final Chapter Prologue is an essential compilation for fans of the Kingdom Hearts series, developed and published by Square Enix. This collection brings together updated versions of beloved titles, offering enhanced graphics and new content. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/Se1U1XIE-WXy3KQ671ccOyFsY4CJOr4t"
+        },
+	{
+          "name": "Update v1.05 .pkg [mocha]",
+          "url": "https://mocha.my/share/puvddd86vg2D9-BqhApUdGURs0Gh9K66"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA05933",
       "title": "Kingdom Hearts HD 1.5 & 2.5 Remix PS4 [CUSA05933 – USA]",
       "category": "game",
