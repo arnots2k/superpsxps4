@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA06732",
+      "title": "Teenage Mutant Ninja Turtles Shredders Revenge Ultimate Edition PS5 [PPSA06732 - USA]",
+      "category": "game",
+      "version": "v01.010",
+      "sizeBytes": 1073741824,
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/TMNT_Shredders_Revenge_UE.avif",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/R5ywokLRz0"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "https://akirabox.com/BnkmWb42QGR0/file"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/gwk8zyj969vw/PPSA06732-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [datanodes]",
+          "url": "https://datanodes.to/24orgv6thjk6/PPSA06732-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA18986",
       "title": "The Legend of Heroes Trails through Daybreak Ultimate Edition PS5 [PPSA18986 - USA]",
       "category": "game",
