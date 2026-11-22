@@ -3,6 +3,53 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA24801",
+      "title": "Life Is Strange True Colors PS4 [CUSA24801 – EUR]",
+      "category": "game",
+      "version": "v1.07",
+      "sizeBytes": 15032385536,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/life-is-strange-remastered-collection-ps4-pkg.webp",
+      "description": "<p>Life Is Strange: True Colors is a graphic adventure video game developed by Deck Nine and published by Square Enix’s European subsidiary. As the fifth entry in the Life Is Strange series, this game follows Alex Chen, who possesses a psychic power known as Empathy. This ability allows her to absorb and experience the emotions of those around her. After her brother dies in what appears to be an accident, Alex must use her power to uncover the truth behind his death.  </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/Mu_hb43WFCXM0uA8HS8SkqtNedlzjqk7"
+        },
+	{
+          "name": "Update v1.07 .pkg [mocha]",
+          "url": "https://mocha.my/share/6QG5rxoWFdmQyaMhVDDzO66mKwAuZBn8"
+        },
+	{
+          "name": "Update DLC [mocha]",
+          "url": "https://mocha.my/share/2uLyQhQKKXwVaYHEE99IfqU7bHfhRCHb"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [viki]",
+          "url": "https://vikingfile.com/f/lWLixn0Z6t"
+        },
+	{
+          "name": "Update v1.07 .pkg [viki]",
+          "url": "https://vikingfile.com/f/EgKoWXXN5V"
+        },
+	{
+          "name": "Update DLC [viki]",
+          "url": "https://vikingfile.com/f/WfK3BbwwUS"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [viki]",
+          "url": "https://filekeeper.net/dglvhq4v07ux/%5BSuperPSX%5D-Life.is.Strange.True.Colors_CUSA24801_v1.00_%5B9.00%5D-PS4.pkg"
+        },
+	{
+          "name": "Update v1.07 .pkg [viki]",
+          "url": "https://filekeeper.net/fr247fbmkz51/%5BSuperPSX%5D-Life.is.Strange.True.Colors_CUSA24801_v1.07_%5B9.00%5D-PS4.pkg"
+        },
+	{
+          "name": "Update DLC [viki]",
+          "url": "https://filekeeper.net/4gwmxd719yhh/%5BSuperPSX%5D-Life.is.Strange.True.Colors_CUSA24801_DLCPACK_%5B3%5D-PS4.rar"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA23981",
       "title": "Life is Strange Before The Storm Remastered PS4 [CUSA23981 – EUR]",
       "category": "game",
