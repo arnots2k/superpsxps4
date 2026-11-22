@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA12031",
+      "title": "Kingdom Hearts 3 PS4 [CUSA12031 – USA]",
+      "category": "game",
+      "version": "v1.10",
+      "sizeBytes": 42949672960,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/KINGDOM-HEARTS-III-Re-Mind-PS4-PKG.webp",
+      "description": "<p>Kingdom Hearts III is an action role-playing game and a major installment in the Kingdom Hearts series, developed and published by Square Enix for the PlayStation 4. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/7g5rSLEV8yIU6Dho8Qfk-6PznqsB-3kI"
+        },
+	{
+          "name": "Update v1.10 .pkg [mocha]",
+          "url": "https://mocha.my/share/UkIUeQq8sG8__rUYV3JirDIWnDZmaWMO"
+        },
+	{
+          "name": "GAME DLC [mocha]",
+          "url": "https://mocha.my/share/rUdjR6Owrcw9GQIAtYD-IVbJfrbtROXM"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA05787",
       "title": "Kingdom Hearts HD 2.8 Final Chapter Prologue PS4 [CUSA05787 – EUR]",
       "category": "game",
