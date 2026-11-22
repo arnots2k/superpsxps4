@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA08124",
+      "title": "Life Is Strange 2 PS4 [CUSA08124 – EUR]",
+      "category": "game",
+      "version": "v1.17",
+      "sizeBytes": 32212254720,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Life-is-Strange-2-Complete-Season-PS4-PKG.webp",
+      "description": "<p>Life Is Strange 2 is an episodic graphic adventure game developed by Dontnod Entertainment and published by Square Enix. Released in five episodes, this game is the third main title in the Life Is Strange series.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/19f9DHoDkHBtOFAX57_BPS_2zZVHqxp0"
+        },
+	{
+          "name": "Update v1.17 .pkg [mocha]",
+          "url": "https://mocha.my/share/UWkl5Xba27D420KTAIKlxZQAN0aXUEVj"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA24801",
       "title": "Life Is Strange True Colors PS4 [CUSA24801 – EUR]",
       "category": "game",
