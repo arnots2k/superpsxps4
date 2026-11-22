@@ -3,8 +3,8 @@
 	"version": 1,
   "packages": [
 	      {
-      "titleId": "CUSA08124",
-      "title": "Kingdom Hearts HD 1.5 & 2.5 Remix PS4 [CUSA08124 – EUR]",
+      "titleId": "CUSA05933",
+      "title": "Kingdom Hearts HD 1.5 & 2.5 Remix PS4 [CUSA05933 – USA]",
       "category": "game",
       "version": "v1.05",
       "sizeBytes": 53687091200,
@@ -1245,30 +1245,7 @@
         }
       ]
     },
-	      {
-      "titleId": "CUSA05933",
-      "title": "Kingdom Hearts HD 1.5 & 2.5 Remix - PS4 [CUSA05933 – USA]",
-      "category": "game",
-      "version": "1.05",
-      "sizeBytes": 53687091200,
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Kingdom-Hearts-HD-1.5-2.5-Remix-PS4-PKG.webp",
-      "description": "<p>Kingdom Hearts 1.5 is a beloved action RPG developed by Square Enix, combining Disney worlds and characters with the magical world of Final Fantasy. This remasteKingdom Hearts HD 1.5 & 2.5 Remix is a spectacular collection that brings together remastered versions of the first two Kingdom Hearts games and their key expansions. Players will embark on epic journeys across Disney worlds alongside iconic characters like Sora, Donald, and Goofy. The collection includes enhanced visuals, remastered music, and bonus content. </p>",
-      "downloadLinks": [
-        {
-          "name": "Download [viki]",
-          "url": "https://vikingfile.com/f/4yLN1n4U18"
-        }
-        ,{
-          "name": "Update v1.04 [viki]",
-          "url": "https://vikingfile.com/f/MG9eyZzerF"
-        }
-        ,{
-          "name": "Update v1.05 [viki]",
-          "url": "https://vikingfile.com/f/CTQJNHOplc"
-        }
-      ]
-    },
-	      {
+	{
       "titleId": "CUSA12555",
       "title": "Dying Light 2 Stay Human PS4 [CUSA12555 – EUR]",
       "category": "game",
