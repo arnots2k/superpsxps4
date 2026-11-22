@@ -3,6 +3,44 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA23981",
+      "title": "Life is Strange Before The Storm Remastered PS4 [CUSA23981 – EUR]",
+      "category": "game",
+      "version": "v1.06",
+      "sizeBytes": 22548578304,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/life-is-strange-remastered-collection-ps4-pkg.webp",
+      "description": "<p>Life is Strange Before The Storm Remastered is an action-adventure game developed by Deck Nine and published by Square Enix. Released on February 1, 2022, for PlayStation 4, this remastered version revisits the scenes and settings from the original game. Set three years before ‘Life Is Strange,’ players control sixteen-year-old Chloe Price as she forms an unlikely friendship with Rachel Amber, a beautiful and popular girl with a promising future. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/GIobd0wbklnIRyq79z3K7Y6fooC4YZPh"
+        },
+	{
+          "name": "Update v1.06 .pkg [mocha]",
+          "url": "https://mocha.my/share/wFpGW9S5idFNV78kxYgVQMoIjt7RnExQ"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA23978",
+      "title": "Life is Strange Remastered PS4 [CUSA23978 – EUR]",
+      "category": "game",
+      "version": "v1.07",
+      "sizeBytes": 18253611008,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/life-is-strange-remastered-collection-ps4-pkg.webp",
+      "description": "<p>Experience the beloved stories of Arcadia Bay like never before with Life is Strange Remastered. Developed by Deck Nine and published by Square Enix, this action-adventure game brings enhanced visuals and animation to the award-winning series. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00 .pkg [mocha]",
+          "url": "https://mocha.my/share/jTxwd2wy5WpwR-6lNxLOXL1kxazbDfm7"
+        },
+	{
+          "name": "Update v1.07 .pkg [mocha]",
+          "url": "https://mocha.my/share/pXaEMFiaonF8uS9uYtyRMdEuXzsPntgJ"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA03291",
       "title": "Bloodborne PS4 [CUSA03291 – EUR]",
       "category": "game",
