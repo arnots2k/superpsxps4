@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA15476",
+      "title": "METAL SLUG ATTACK RELOADED PS5 [PPSA15476 - JPN]",
+      "category": "game",
+      "version": "v01.001",
+      "sizeBytes": 7516192768,
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/METAL_SLUG_ATTACK_RELOADED.avif",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/yA6Rz8p77K"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "https://akirabox.com/Pbe3Pke1emlX/file"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/29h8lw8tdd1b/PPSA15476-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [natanodes]",
+          "url": "https://datanodes.to/z3g3kg3hwpcq/PPSA15476-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA07570",
       "title": "Mortal Kombat 1 PS5 [PPSA07570 – USA]",
       "category": "game",
