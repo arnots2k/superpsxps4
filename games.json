@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	  	{
+      "titleId": "CUSA06210",
+      "title": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto PS4 [CUSA06210 – EUR]",
+      "category": "game",
+      "version": "1.05",
+      "sizeBytes": 40802189312,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/Naruto-Shippuden-Ultimate-Ninja-Storm-4-Road-to-Boruto-PS4-PKG.jpg",
+      "description": "<p>Naruto Shippuden: Ultimate Ninja Storm 4 – Road to Boruto is an explosive anime arena fighting game developed by CyberConnect2 and published by Bandai Namco Entertainment. Serving as the definitive conclusion to the Storm saga, the game covers the epic Fourth Shinobi Great Ninja War alongside the events of Boruto: Naruto the Movie.   </p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/SX0KbZq_yFncYlLpnVtTjy-P8Pq-lXiP"
+        },
+	{
+          "name": "mocha - GAME Update 1.05 [mocha]",
+          "url": "https://mocha.my/share/vsk3k9wu_iX4bdfURAxXY9PpF9iwQwFT"
+        },
+        {
+          "name": "vikingfile - GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/pVudQg6UR2"
+        },
+	{
+          "name": "vikingfile - GAME Update 1.05 [viki]",
+          "url": "https://vikingfile.com/f/pxO8wrzcan"
+        }
+      ]
+    },
+	  	{
       "titleId": "CUSA06417",
       "title": "Naruto Shippuden Ultimate Ninja Storm Trilogy PS4 [CUSA06417 – USA]",
       "category": "game",
