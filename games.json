@@ -3,6 +3,21 @@
 	"version": 1,
   "packages": [
 	  	{
+      "titleId": "CUSA06212",
+      "title": "Resident Evil Revelations PS4 [CUSA06212 – EUR]",
+      "category": "game",
+      "version": "1.00",
+      "sizeBytes": 18146236826,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/03/Resident-Evil-Revelations-PS4-PKG.webp",
+      "description": "<p>Resident Evil Revelations is a survival-horror game developed and published by Capcom. The Resident Evil Revelations PS4 Fake PKG is available now, including updates and DLC. PS4 Jailbreak users can easily install these PKGs. Released on August 29, 2017, this title continues the Resident Evil series’ tradition of intense survival horror. The game has garnered positive reviews for its emphasis on survival, avoidance, and investigation over fast-paced combat, offering a more strategic approach by limiting ammo, health, and movement speed while modernizing the gameplay experience.</p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/nyR941d9hXYv0DTJC63mGGtG6uNQHoFj"
+        }
+      ]
+    },
+	  	{
       "titleId": "CUSA18008",
       "title": "Resident Evil Village PS4 [CUSA18008 – EUR]",
       "category": "game",
@@ -26,14 +41,6 @@
         {
           "name": "mocha - GAME DLCs [mocha]",
           "url": "https://mocha.my/share/uIn4Yzm01V-lRheqagmaKyo2CMnRiKEX"
-        },
-	{
-          "name": "vikingfile - GAME Update 1.11 [viki]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME DLCs [viki]",
-          "url": "*"
         }
       ]
     },
@@ -57,18 +64,6 @@
 	{
           "name": "mocha - GAME DLCs [mocha]",
           "url": "https://mocha.my/share/EwGnMmYoHAN0qOmhSo7RdjHz4GdntvMl"
-        },
-        {
-          "name": "vikingfile - GAME DOWNLOAD [viki]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME Update 1.11 [viki]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME DLCs [viki]",
-          "url": "*"
         }
       ]
     },
@@ -88,22 +83,6 @@
 	{
           "name": "akirabox - GAME Update 1.01 [akira]",
           "url": "https://akirabox.com/b5OzdRDRRmB8/file"
-        },
-	{
-          "name": "mocha - GAME DLC Gold Edition [mocha]",
-          "url": "*"
-        },
-        {
-          "name": "mocha - GAME DLCs [mocha]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME Update 1.11 [viki]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME DLCs [viki]",
-          "url": "*"
         }
       ]
     },
@@ -123,22 +102,6 @@
 	{
           "name": "mocha - GAME Update 1.01 [mocha]",
           "url": "https://mocha.my/share/mR5hJ-kI2rFAcUfSAiiIWsxKAeARx6Sg"
-        },
-	{
-          "name": "mocha - GAME DLC Gold Edition [mocha]",
-          "url": "*"
-        },
-        {
-          "name": "mocha - GAME DLCs [mocha]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME Update 1.11 [viki]",
-          "url": "*"
-        },
-	{
-          "name": "vikingfile - GAME DLCs [viki]",
-          "url": "*"
         }
       ]
     },
