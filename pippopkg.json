@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA04609",
+      "title": "ELDEN RING Deluxe Edition PS5 [PPSA04609 - EUR]",
+      "category": "game",
+      "version": "v01.018.001",
+      "sizeBytes": 76235669504,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBlmX-yNBUtYMyAF-gebNJ_G1V2U9PNRej7HiowV5YHi_YuZ8_ha-p_k&s=10",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/Bf22zODmqK"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "https://akirabox.com/E1x3AZkqXzyk/file"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/eq4da5435rmg/PPSA04609-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [datanodes]",
+          "url": "https://datanodes.to/isfi57ytbzkt/PPSA04609-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA35314",
       "title": "MudRunner American Wilds Edition PS5 [PPSA35314 - USA]",
       "category": "game",
