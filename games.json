@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA57767",
+      "title": "God of War Sons of Sparta PS4 [CUSA57767 – USA]",
+      "category": "game",
+      "version": "v01.005",
+      "sizeBytes": 12884901888,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/11/god-of-war-sons-of-sparta-PS4.jpg",
+      "description": "<p>God of War: Sons of Sparta is an exciting action-adventure platformer set in the legendary God of War universe, taking players back to the early years of Kratos and his brother Deimos. Developed by Mega Cat Studios in collaboration with Santa Monica Studio, this adventure explores the brothers’ Spartan training and their dangerous journey through ancient Greece. Experience challenging combat, explore mysterious environments, solve puzzles, and battle powerful mythological creatures. God of War: Sons of Sparta brings a unique 2D pixel-art experience to the PlayStation platform, combining classic platforming gameplay with the legendary action and storytelling of the God of War franchise. </p>",
+      "downloadLinks": [
+	{
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/ZHB_nOL-R4ZqyHqFMm195PKKwUv5X_oL"
+        },
+	{
+          "name": "mocha - GAME Update 1.01 [mocha]",
+          "url": "https://mocha.my/share/R8sfPhnFcHOAzxq3OeKlAOTxSkElKlkP"
+        },
+	{
+          "name": "vickingfile - GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/UAGmnFKnDJ"
+        },
+	{
+          "name": "vikingfile - GAME Update 1.01 [viki]",
+          "url": "https://vikingfile.com/f/8CF5heULFQ"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA12047",
       "title": "Sekiro Shadows Die Twice PS4 [CUSA12047 – USA]",
       "category": "game",
@@ -198,7 +225,7 @@
       "category": "game",
       "version": "v1.07",
       "sizeBytes": 15032385536,
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/life-is-strange-remastered-collection-ps4-pkg.webp",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Life-is-Strange_-True-Colors-PS4-PKG.webp",
       "description": "<p>Life Is Strange: True Colors is a graphic adventure video game developed by Deck Nine and published by Square Enix’s European subsidiary. As the fifth entry in the Life Is Strange series, this game follows Alex Chen, who possesses a psychic power known as Empathy. This ability allows her to absorb and experience the emotions of those around her. After her brother dies in what appears to be an accident, Alex must use her power to uncover the truth behind his death.  </p>",
       "downloadLinks": [
 	{
