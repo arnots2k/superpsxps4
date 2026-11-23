@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA02299",
+      "title": "Marvels Spider Man PS4 [CUSA02299 – USA]",
+      "category": "game",
+      "version": "v1.19",
+      "sizeBytes": 43518756127,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/03/Marvels-Spider-Man-PS4-PKG.webp",
+      "description": "<p>Marvel’s Spider-Man is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment. Released on September 7, 2018, for the PlayStation 4, Marvel’s Spider-Man is celebrated for its engaging gameplay, stunning graphics, and captivating story. The game offers a rich open-world experience where players can swing through the city, engage in aerial combat, and interact with various elements of the Spider-Man universe.  </p>",
+      "downloadLinks": [
+	{
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/EsWQelf72VAXYYJ_1gqEdQVbcfLgmTQY"
+        },
+	{
+          "name": "mocha - GAME Update v1.19 30FPS [mocha]",
+          "url": "https://mocha.my/share/7EFEw6FCxcXvxpM0hKFJMyWrUfMe48Gr"
+        },
+	{
+          "name": "mocha - GAME Update v1.19 60FPS [mocha]",
+          "url": "https://mocha.my/share/9ctBLSur2ffnkdEAWJETtL7zknGBO6Je"
+        },
+	{
+          "name": "mocha - GAME DLC [mocha]",
+          "url": "https://mocha.my/share/kpJVQobKwnQylu3aI-B6AfNnyCeqeFhE"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA00239",
       "title": "The Amazing Spider Man 2 PS4 [CUSA00239 – USA]",
       "category": "game",
