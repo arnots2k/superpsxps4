@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA08668",
+      "title": "FINAL FANTASY VII REBIRTH Deluxe Edition PS5 [PPSA08668 - EUR]",
+      "category": "game",
+      "version": "v01.080",
+      "sizeBytes": 148176371712,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUB8DWdjIEpGSUSDWPMQwsm5eDdJo7hRHMtjUVJdjgcr0O1macoCf9c74&s=10",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/PiKhdop1aV"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "https://akirabox.com/BnkmWbwyrGR0/file"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/qknuuoca36h8/PPSA08668-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [datanodes]",
+          "url": "https://datanodes.to/dyg82b73i8fu/PPSA08668-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA04609",
       "title": "ELDEN RING Deluxe Edition PS5 [PPSA04609 - EUR]",
       "category": "game",
