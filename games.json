@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	  	{
+      "titleId": "CUSA25891",
+      "title": "Ninja Gaiden Master Collection PS4 [CUSA25891 – USA]",
+      "category": "game",
+      "version": "1.04",
+      "sizeBytes": 11811160064,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/NINJA-GAIDEN_-Master-Collection-PS4-PKG.webp",
+      "description": "<p>Ninja Gaiden Master Collection is a compilation of action games developed by Team Ninja and published by Koei Tecmo. Released on June 10, 2021, for PlayStation 4, this collection includes some of the most iconic Ninja Gaiden titles. However, it lacks the multiplayer modes found in the original games.</p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/NwNa74zDldrmf2Pp40311u1mNrUoQx6N"
+        },
+	{
+          "name": "mocha - GAME Update 1.04 [mocha]",
+          "url": "https://mocha.my/share/e-23cH_lRK6iS9HBMm5BgNhVZZjKd1Si"
+        }
+      ]
+    },
+	  	{
       "titleId": "CUSA32836",
       "title": "Naruto x Boruto Ultimate Ninja Storm Connections Ultimate Edition PS4 [CUSA32836 – EUR]",
       "category": "game",
