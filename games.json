@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	  	{
+      "titleId": "CUSA06417",
+      "title": "Naruto Shippuden Ultimate Ninja Storm Trilogy PS4 [CUSA06417 – USA]",
+      "category": "game",
+      "version": "1.01",
+      "sizeBytes": 17179869184,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/05/Naruto-Shippuden-Ultimate-Ninja-Storm-Trilogy-PS4-PKG.webp",
+      "description": "<p>Naruto Shippuden Ultimate Ninja Storm Trilogy brings together the first three epic entries of the Ultimate Ninja Storm series in one action-packed collection. Experience the journey of Naruto Uzumaki from the beginning of his ninja training to the climactic battles of the Fourth Great Ninja War.  </p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/fYd2qbieGE0IDviQk4rDUnzh2da9cLfD"
+        },
+	{
+          "name": "mocha - GAME Update 1.01 [mocha]",
+          "url": "https://mocha.my/share/lfY3zkXpB8QiT7YLNA6gNqa1uvdhJIGr"
+        }
+      ]
+    },
+	  	{
       "titleId": "CUSA06212",
       "title": "Resident Evil Revelations PS4 [CUSA06212 – EUR]",
       "category": "game",
