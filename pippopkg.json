@@ -3,33 +3,6 @@
 	"version": 1.00,
   "packages": [
 	      {
-      "titleId": "PPSA06732",
-      "title": "Teenage Mutant Ninja Turtles Shredders Revenge Ultimate Edition PS5 [PPSA06732 - USA]",
-      "category": "game",
-      "version": "v01.010",
-      "sizeBytes": 858993459,
-      "posterUrl": "https://store-images.s-microsoft.com/image/apps.18176.13725696914834943.cb5fbd5a-05df-414b-bcd0-9cc72234f35f.7ce72e81-c91f-43c2-ad89-abcb48685fbc",
-      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
-      "downloadLinks": [
-	{
-          "name": "GAME DOWNLOAD.7z [viki]",
-          "url": "https://vikingfile.com/f/R5ywokLRz0"
-        },
-	{
-          "name": "GAME DOWNLOAD.7z [akira]",
-          "url": "https://akirabox.com/BnkmWb42QGR0/file"
-        },
-	{
-          "name": "GAME DOWNLOAD.7z [filek]",
-          "url": "https://filekeeper.net/gwk8zyj969vw/PPSA06732-Compressed.7z"
-        },
-	{
-          "name": "GAME DOWNLOAD.7z [datanodes]",
-          "url": "https://datanodes.to/24orgv6thjk6/PPSA06732-Compressed.7z"
-        }
-      ]
-    },
-	      {
       "titleId": "PPSA35314",
       "title": "MudRunner American Wilds Edition PS5 [PPSA35314 - USA]",
       "category": "game",
@@ -62,7 +35,7 @@
       "category": "game",
       "version": "v01.010",
       "sizeBytes": 1073741824,
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/TMNT_Shredders_Revenge_UE.avif",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrW9m5wfzhY-onCYPv4DMV486vsOkJvZTFzhOHfVQ5tEzS9Vt11sc0mwM&s=10",
       "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
       "downloadLinks": [
 	{
@@ -89,7 +62,7 @@
       "category": "game",
       "version": "v01.002",
       "sizeBytes": 37580963840,
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Ys_IX_Monstrum_Nox_DE.avif",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3j4ExbeOjbCUMufQJk_L5fhUbzouSwGqEANIgwcDIIRepEneCACWAuZR&s=10",
       "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
       "downloadLinks": [
 	{
@@ -116,7 +89,7 @@
       "category": "game",
       "version": "v01.001",
       "sizeBytes": 7516192768,
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Ys_IX_Monstrum_Nox_DE.avif",
+      "posterUrl": "https://m.media-amazon.com/images/I/715dOzRnwQL._AC_UF1000,1000_QL80_.jpg",
       "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
       "downloadLinks": [
 	{
@@ -143,7 +116,7 @@
       "category": "game",
       "version": "v01.001",
       "sizeBytes": 7516192768,
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/METAL_SLUG_ATTACK_RELOADED.avif",
+      "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8dab.jpg",
       "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
       "downloadLinks": [
 	{
