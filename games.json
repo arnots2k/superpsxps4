@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	  	{
+      "titleId": "CUSA03842",
+      "title": "Resident Evil 7 Biohazard PS4 [CUSA03842 – EUR (v1.11)]",
+      "category": "game",
+      "version": "1.11",
+      "sizeBytes": 20937965568,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/06/Resident-Evil-7-Biohazard-PS4-PKG.webp",
+      "description": "<p>Resident Evil 7 Biohazard is a critically acclaimed survival horror game developed and published by Capcom. Known for its intense atmosphere and first-person perspective, the game takes players to the eerie Baker family estate in Louisiana. </p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/8z9jNbBKrGmh-8P3z-hRZbjHqtonnKhp"
+        },
+	{
+          "name": "mocha - GAME Update 1.11 [mocha]",
+          "url": "https://mocha.my/share/NtB-D1GZJIL_LyxCQlYB1jmQFAKdSRPH"
+        },
+	{
+          "name": "mocha - GAME DLCs [mocha]",
+          "url": "https://mocha.my/share/EwGnMmYoHAN0qOmhSo7RdjHz4GdntvMl"
+        },
+        {
+          "name": "vikingfile - GAME DOWNLOAD [viki]",
+          "url": "*"
+        },
+	{
+          "name": "vikingfile - GAME Update 1.11 [viki]",
+          "url": "*"
+        },
+	{
+          "name": "vikingfile - GAME DLCs [viki]",
+          "url": "*"
+        }
+      ]
+    },
+	  	{
       "titleId": "CUSA33388",
       "title": "Resident Evil 4 Remake Gold Edition PS4 [CUSA33388 – EUR]",
       "category": "game",
