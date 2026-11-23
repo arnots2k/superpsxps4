@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA09171 – EUR",
+      "title": "Resident Evil 2 Remake Deluxe Edition PS4 [CUSA09171]",
+      "category": "game",
+      "version": "v1.07",
+      "sizeBytes": 30064771072,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Resident-Evil-2-PS4-PKG.webp",
+      "description": "<p>MResident Evil 2 Remake Deluxe Edition revitalizes the classic 1998 survival horror title with stunning graphics and enhanced gameplay. </p>",
+      "downloadLinks": [
+	{
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/RG0HjK0xcnp8hE3Ckv4A7RBnm5Jbr_LB"
+        },
+	{
+          "name": "mocha - GAME Update v1.07 [mocha]",
+          "url": "https://mocha.my/share/-poPUzYTebmzevCuuWwo-BLcIKqx7UPL"
+        },
+	{
+          "name": "mocha - GAME DLCs [mocha]",
+          "url": "https://mocha.my/share/9a0rPFG77SfHVSRq9n1WE9SBQwyP8VXd"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA17722",
       "title": "Marvels Spider Man Miles Morales PS4 [CUSA17722 – USA]",
       "category": "game",
