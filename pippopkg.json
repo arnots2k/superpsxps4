@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA01903",
+      "title": "Final Fantasy VII Remake Intergrade Deluxe Edition PS5 [PPSA01903 - EUR]",
+      "category": "game",
+      "version": "v01.005",
+      "sizeBytes": 97710505984,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBF_rXvYSnYsSDroy_bK17Yp1cgP6cZ7sSZGIc0D0RATbVItNXXGkLa6o&s=10",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/jQUGWTZ2TM"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "https://akirabox.com/Y2xm0RZdqzRO/file"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/bqd73uwfv3gj/PPSA01903-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [datanodes]",
+          "url": "https://datanodes.to/mcdpinpsfxav/PPSA01903-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA08668",
       "title": "FINAL FANTASY VII REBIRTH Deluxe Edition PS5 [PPSA08668 - EUR]",
       "category": "game",
