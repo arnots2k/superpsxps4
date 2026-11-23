@@ -3,8 +3,43 @@
 	"version": 1,
   "packages": [
 	  	{
+      "titleId": "CUSA18008",
+      "title": "Resident Evil Village PS4 [CUSA18008 – EUR]",
+      "category": "game",
+      "version": "1.13",
+      "sizeBytes": 32212254720,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Resident-Evil-Village-PS4-PKG.webp",
+      "description": "<p>Resident Evil Village is a 2021 survival horror game developed and published by Capcom. As the sequel to Resident Evil 7: Biohazard, the game immerses players in a chilling narrative where Ethan Winters searches for his kidnapped daughter in a village teeming with mutant creatures. </p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/Fk2-YSb2ZqtumjQ-fVHk_cfhexv4_tpv"
+        },
+	{
+          "name": "mocha - GAME Update 1.13 [mocha]",
+          "url": "https://mocha.my/share/_8irx71Gr019LqOfaaR_8BpA_7Hj5kYi"
+        },
+	{
+          "name": "mocha - GAME DLC Gold Edition [mocha]",
+          "url": "https://mocha.my/share/KLQaOEfb6MlM-VXRqcZYJbz31SoS73uH"
+        },
+        {
+          "name": "mocha - GAME DLCs [mocha]",
+          "url": "https://mocha.my/share/uIn4Yzm01V-lRheqagmaKyo2CMnRiKEX"
+        },
+	{
+          "name": "vikingfile - GAME Update 1.11 [viki]",
+          "url": "*"
+        },
+	{
+          "name": "vikingfile - GAME DLCs [viki]",
+          "url": "*"
+        }
+      ]
+    },
+	  	{
       "titleId": "CUSA03842",
-      "title": "Resident Evil 7 Biohazard PS4 [CUSA03842 – EUR (v1.11)]",
+      "title": "Resident Evil 7 Biohazard PS4 [CUSA03842 – EUR]",
       "category": "game",
       "version": "1.11",
       "sizeBytes": 20937965568,
@@ -96,8 +131,8 @@
       ]
     },
 	      {
-      "titleId": "CUSA09171 – EUR",
-      "title": "Resident Evil 2 Remake Deluxe Edition PS4 [CUSA09171]",
+      "titleId": "CUSA09171",
+      "title": "Resident Evil 2 Remake Deluxe Edition PS4 [CUSA09171 - EUR]",
       "category": "game",
       "version": "v1.07",
       "sizeBytes": 30064771072,
