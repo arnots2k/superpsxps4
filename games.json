@@ -2,6 +2,64 @@
   "name": "SuperPSX PS4 by ARNOTS",
 	"version": 1,
   "packages": [
+	  	{
+      "titleId": "CUSA33388",
+      "title": "Resident Evil 4 Remake Gold Edition PS4 [CUSA33388 – EUR]",
+      "category": "game",
+      "version": "1.11",
+      "sizeBytes": 28991029248,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Resident-Evil-4-Gold-Edition-PS4-PKG.webp",
+      "description": "<p>Resident Evil 4 is a 2023 video game developed and published by Capcom. This remake of the 2005 classic retains the core elements that made the original a beloved title in the survival horror genre. Released on March 24, 2023, for PlayStation 4, PlayStation 5, Windows, and Xbox Series X/S, it brings enhanced graphics and gameplay to a new generation of players.</p>",
+      "downloadLinks": [
+        {
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/ZnvsL_UakQHzODAM0fzWLr-W-zInS5tf"
+        },
+	{
+          "name": "mocha - GAME Update 1.11 [mocha]",
+          "url": "https://mocha.my/share/FzfCuN80llFhJlGcqo3_gMM9R0PTxUJb"
+        },
+	{
+          "name": "mocha - GAME DLCs [mocha]",
+          "url": "https://mocha.my/share/0lO2E4zeCqcddDCJQcBqPCjlIM12xgGU"
+        },
+        {
+          "name": "vikingfile - GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/rKrkm0dEGZ"
+        },
+	{
+          "name": "vikingfile - GAME Update 1.11 [viki]",
+          "url": "https://vikingfile.com/f/QurD6yEmQY"
+        },
+	{
+          "name": "vikingfile - GAME DLCs [viki]",
+          "url": "https://vikingfile.com/f/DyQhtypfYR"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA14123",
+      "title": "Resident Evil 3 PS4 [CUSA14123 – EUR]",
+      "category": "game",
+      "version": "v1.07",
+      "sizeBytes": 30064771072,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/RESIDENT-EVIL-3-PS4-PKG.webp",
+      "description": "<p>esident Evil 3 is a thrilling survival horror game developed and published by Capcom, featuring a modern reimagining of the classic 1999 title. In this re-release, players follow Jill Valentine as she attempts to escape from a Raccoon City overrun by zombies and the monstrous Nemesis. </p>",
+      "downloadLinks": [
+	{
+          "name": "mocha - GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/_9Vgn5N2rvDq-qs4zXs4lF6ggewdwcZb"
+        },
+	{
+          "name": "mocha - GAME Update v1.07 [mocha]",
+          "url": "https://mocha.my/share/V8E1Ed_iV4LDKh7na4cPpU5YnJVi-kIY"
+        },
+	{
+          "name": "mocha - GAME DLCs [mocha]",
+          "url": "https://mocha.my/share/mAVdRP2A2UVpqSloqrt7TsTi7X_RoUut"
+        }
+      ]
+    },
 	      {
       "titleId": "CUSA09171 – EUR",
       "title": "Resident Evil 2 Remake Deluxe Edition PS4 [CUSA09171]",
@@ -1520,25 +1578,6 @@
         ,{
           "name": "DLC [viki]",
           "url": "https://vikingfile.com/f/GFjTRJGZhm"
-        }
-      ]
-    },
-	      {
-      "titleId": "CUSA33387",
-      "title": "Resident Evil 4 Remake Gold Edition PS4 [CUSA33387 – USA]",
-      "category": "game",
-      "version": "1.11",
-      "sizeBytes": 28991029248,
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Resident-Evil-4-Gold-Edition-PS4-PKG.webp",
-      "description": "<p>Resident Evil 4 is a 2023 video game developed and published by Capcom. This remake of the 2005 classic retains the core elements that made the original a beloved title in the survival horror genre. Released on March 24, 2023, for PlayStation 4, PlayStation 5, Windows, and Xbox Series X/S, it brings enhanced graphics and gameplay to a new generation of players.</p>",
-      "downloadLinks": [
-        {
-          "name": "Download [viki]",
-          "url": "https://vikingfile.com/f/zjyWPbAfHa"
-        }
-        ,{
-          "name": "Update v1.11 [viki]",
-          "url": "https://vikingfile.com/f/qXLua1xAzS"
         }
       ]
     },
