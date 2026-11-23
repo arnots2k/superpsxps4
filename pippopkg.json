@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA35314",
+      "title": "MudRunner American Wilds Edition PS5 [PPSA35314 - USA]",
+      "category": "game",
+      "version": "v01.000",
+      "sizeBytes": 2147483648,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcprCTHkRiZ0q0hg7J_-qJdgEwTS2svoCfszQi5yE9LmCNuu1Jo2vSto&s=10",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD.7z [viki]",
+          "url": "https://vikingfile.com/f/H79oMs13uG"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [akira]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [filek]",
+          "url": "https://filekeeper.net/luou915hf717/PPSA35314-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD.7z [datanodes]",
+          "url": "https://datanodes.to/32c031tx227j/PPSA35314-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA06732",
       "title": "Teenage Mutant Ninja Turtles Shredders Revenge Ultimate Edition PS5 [PPSA06732 - USA]",
       "category": "game",
