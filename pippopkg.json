@@ -3,6 +3,21 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA38500",
+      "title": "Grand Theft Auto VI PS5 [PPSA38500 - EUR]",
+      "category": "game",
+      "version": "v01.002",
+      "sizeBytes": 216895848448,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIG5x1MFQrCn-lHjAxoCQdGs_Olv007c7iF7BNzU8zp2fPrN4qInnV7BI&s=10",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional. </p>",
+      "downloadLinks": [
+	{
+          "name": "FPKG - vikingfile - GAME DOWNLOAD [viki]",
+          "url": "https://vik1ngf1le.online/f/JbQIQC9EMm#GrandTheft%20Auto%20VI%20[PPSA38500]%20[v01.002].pkg"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA01903",
       "title": "Final Fantasy VII Remake Intergrade Deluxe Edition PS5 [PPSA01903 - EUR]",
       "category": "game",
